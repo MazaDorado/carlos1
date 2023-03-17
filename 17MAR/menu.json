@@ -1,0 +1,63 @@
+{"menu":[
+      {"id":1,
+     "nombre": "Hamburguesa",
+      "Descripcion": "DobleCarne contocino, queso amarillo, Jalapeño",
+      "Prcio": 100,
+      "imagen": "imagen/hamburguesa.jpg"                
+    },
+    {"id":2,
+     "nombre": "Tacos",
+      "Descripcion": "Carne de Bisteck, queso, CebollayCilantro",
+      "Prcio": 80,
+      "imagen": "imagen/tacos.jpg"                
+    },
+    {"id":3,
+     "nombre": "Tortas",
+      "Descripcion": "DobleCarne, queso, Jamon",
+      "Prcio": 110,
+      "imagen": "imagen/tortas.jpg"                
+    },
+    {"id":4,
+     "nombre": "Sincronizadas",
+      "Descripcion": "DobleCarne, queso, frijoles, CebollayCilantro",
+      "Prcio": 90,
+      "imagen": "imagen/sincronizadas.jpg"                
+    },
+    {"id":5,
+     "nombre": "PapaAsada",
+      "Descripcion": "DobleCarne, queso amarillo, totopos",
+      "Prcio": 120,
+      "imagen": "imagen/PapaAsada.jpg"                
+    },
+    {"id":6,
+     "nombre": "Burritos",
+      "Descripcion": "DobleCarne, queso, frijoles, aguacate",
+      "Prcio": 60,
+      "imagen": "imagen/burritos.jpg"                
+    },
+    {"id":7,
+     "nombre": "MalteadaDeFresa",
+      "Descripcion": "Fresa,Leche,cremabatida",
+      "Prcio": 50,
+      "imagen": "imagen/MalteadaDeFresa.jpg"                
+    },
+    {"id":8,
+     "nombre": "Flan",
+      "Descripcion": "Vainilla,azucar,huevos,lechecondensada ",
+      "Prcio": 30,
+      "imagen": "imagen/Flan.jpg"                
+    },
+    {"id":9,
+     "nombre": "PayDeQueso",
+      "Descripcion": "QuesoDobleCrema,huevos,mantequilla,galletasMaria",
+      "Prcio": 309,
+      "imagen": "imagen/PayDeQueso.jpg"                
+    },
+    {"id":10,
+     "nombre": "CarlotaDeOreo",
+      "Descripcion": "GalletaOreo,YoghurtNatural,Creatina,Vainilla",
+      "Prcio": 30,
+      "imagen": "imagen/CarlotaDeOreo.jpg"                
+    }
+]
+}
